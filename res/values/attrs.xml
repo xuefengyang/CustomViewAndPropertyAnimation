@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RippleButton">
+        <attr name="ripple_color" format="color"></attr>
+    </declare-styleable>	
+</resources>
